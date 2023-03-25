@@ -1,7 +1,7 @@
 # Updates and Suggestions ```summary of what was discussed with Dr Swaib```
 
 # Update 1
-	```We should be specific on the purpose of the system like:```
+```We should be specific on the purpose of the system like:```
    - On Tenant side its purpose is to ease tenant payment.
    - On the lanlord side its purpose is to ease collection of rent and hnalding rent defaulters.
  
